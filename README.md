@@ -1,6 +1,6 @@
-# YueLu2022/2023 EC basic_framework-dev
-
-湖南大学RoboMaster跃鹿战队2022-2023电控通用嵌入式框架。
+# ZHULONG/RM_HERO
+中州烛龙战队英雄代码\
+基于湖南大学RoboMaster跃鹿战队2022-2023电控通用嵌入式框架。
 
 <div align=center>
 	<img src=".assets/yuelu_badge.png"/>
